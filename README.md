@@ -1,5 +1,5 @@
 # Practica_APC-Cas_Kaggle
-Pràtica final per l'assignatura de Aprenentatge Computacional del grau de MatCAD. 
+## Pràtica final per l'assignatura de Aprenentatge Computacional del grau de MatCAD. 
 Laia Querol Alturo
 ------------------
 Mushroom identification is a popular activity among nature enthusiasts, hikers, and foragers who either intentionally search for mushrooms or encounter them by chance during outdoor excursions. For these individuals, being able to accurately identify mushrooms can be both a rewarding experience and an important safety measure, as some mushrooms are edible while others can be toxic. However, the task of distinguishing between different species and genera can be challenging due to the wide variety of mushrooms and the subtle differences in their appearance. This is where an automated identification system can prove to be quite helpful, providing a reliable and accessible way for individuals to classify mushrooms on the go using their smartphones or other devices.

@@ -11,7 +11,8 @@ We propose an approach that combines both local and global image features to imp
 
 ----------
 ## The Dataset
-Given the size of the data, even zipped (111mb) the data will have to be accessed through its original source at https://www.kaggle.com/datasets/mdhasanahmad/12-mushroom-species-dataset. I want to give special thanks to Hasan Ahmad for their work. The very first box of the notebook includes the lines that will have to be uncommented in order to download it. Once that is done, which should only take a couple of minutes, you will find inside Data, 12 folders of 1000 images each of size 224x224. Each folder is a genus of mushroom.
+Given the size of the data, even zipped (111mb) -and split zipped- the data will have to be accessed through its original source at https://www.kaggle.com/datasets/mdhasanahmad/12-mushroom-species-dataset. 
+I want to give special thanks to Hasan Ahmad for their work. The very first box of the notebook includes the lines that will have to be uncommented in order to download it. Once that is done, which should only take a couple of minutes, you will find inside Data, 12 folders of 1000 images each of size 224x224. Each folder is a genus of mushroom.
 
 ## Package Requirements
 Python packages are the usual for a machine learning project. You should be mindfull of open-cv, sklearn and seaborn. 
